@@ -1,0 +1,22 @@
+[10-Jun-2014 04:58:07 UTC] PHP Fatal error:  Class 'DB' not found in /home/playjasb2/public_html/news.php on line 76
+[10-Jun-2014 05:02:18 UTC] PHP Fatal error:  Call to a member function isLoggedIn() on a non-object in /home/playjasb2/public_html/news.php on line 50
+[10-Jun-2014 05:02:19 UTC] PHP Fatal error:  Call to a member function isLoggedIn() on a non-object in /home/playjasb2/public_html/news.php on line 50
+[11-Jun-2014 01:04:56 UTC] PHP Fatal error:  Call to a member function isLoggedIn() on a non-object in /home/playjasb2/public_html/contact.php on line 50
+[11-Jun-2014 17:34:45 UTC] PHP Fatal error:  Call to a member function isLoggedIn() on a non-object in /home/playjasb2/public_html/new_gallery.php on line 57
+[13-Jun-2014 03:20:08 UTC] PHP Fatal error:  Call to a member function isLoggedIn() on a non-object in /home/playjasb2/public_html/signin.php on line 88
+[13-Jun-2014 13:52:10 UTC] PHP Fatal error:  Call to a member function isLoggedIn() on a non-object in /home/playjasb2/public_html/signin.php on line 4
+[13-Jun-2014 13:52:17 UTC] PHP Fatal error:  Call to a member function isLoggedIn() on a non-object in /home/playjasb2/public_html/signin.php on line 4
+[13-Jun-2014 13:52:27 UTC] PHP Fatal error:  Call to a member function isLoggedIn() on a non-object in /home/playjasb2/public_html/signin.php on line 4
+[13-Jun-2014 13:52:34 UTC] PHP Fatal error:  Call to a member function isLoggedIn() on a non-object in /home/playjasb2/public_html/signin.php on line 4
+[13-Jun-2014 13:52:41 UTC] PHP Fatal error:  Call to a member function isLoggedIn() on a non-object in /home/playjasb2/public_html/signin.php on line 4
+[13-Jun-2014 14:06:39 UTC] PHP Fatal error:  Call to a member function isLoggedIn() on a non-object in /home/playjasb2/public_html/signin.php on line 4
+[13-Jun-2014 14:07:45 UTC] PHP Fatal error:  Call to a member function isLoggedIn() on a non-object in /home/playjasb2/public_html/signin.php on line 4
+[13-Jun-2014 14:08:26 UTC] PHP Fatal error:  Call to a member function isLoggedIn() on a non-object in /home/playjasb2/public_html/signin.php on line 4
+[13-Jun-2014 14:17:03 UTC] PHP Fatal error:  Call to a member function isLoggedIn() on a non-object in /home/playjasb2/public_html/signup.php on line 152
+[13-Jun-2014 14:17:31 UTC] PHP Fatal error:  Call to a member function isLoggedIn() on a non-object in /home/playjasb2/public_html/signup.php on line 152
+[13-Jun-2014 14:27:50 UTC] PHP Fatal error:  Call to a member function isLoggedIn() on a non-object in /home/playjasb2/public_html/Beach.php on line 42
+[13-Jun-2014 15:41:29 UTC] PHP Fatal error:  Call to a member function isLoggedIn() on a non-object in /home/playjasb2/public_html/signin.php on line 4
+[13-Jun-2014 16:43:41 UTC] PHP Fatal error:  Call to a member function isLoggedIn() on a non-object in /home/playjasb2/public_html/signin.php on line 4
+[13-Jun-2014 16:43:49 UTC] PHP Fatal error:  Call to a member function isLoggedIn() on a non-object in /home/playjasb2/public_html/signin.php on line 4
+[13-Jun-2014 16:44:28 UTC] PHP Fatal error:  Call to a member function isLoggedIn() on a non-object in /home/playjasb2/public_html/signin.php on line 4
+[13-Jun-2014 16:46:32 UTC] PHP Fatal error:  Call to a member function isLoggedIn() on a non-object in /home/playjasb2/public_html/signin.php on line 4

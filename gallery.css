@@ -1,0 +1,37 @@
+.cf:before,
+.cf:after{
+	content: " ";
+	display: table;
+}
+
+.cf:after{
+	clear: both;
+}
+
+.container{
+	position: relative;
+	max-width: 100%; /*This will adjust how wide the gallery is*/
+	padding: 10px;
+	/*background: #f0f0f0;*/
+	margin: auto;
+}
+
+.gallery{
+	width: 100%;
+	margin: 0 auto;
+	float: center;
+}
+.gallery-item{
+	float: left;
+	position: relative;
+	right: -5.6%;
+	background: #fff;
+	width: 20%; /*This adjusts how wide each picture is*/
+	margin: 1%;
+	padding: 2%;
+	padding-bottom: 5%;
+	box-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+}
+.gallery-item img{
+	width: 100%;
+}
