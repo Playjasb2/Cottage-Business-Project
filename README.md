@@ -1,1 +1,1 @@
-# Cottage-Business-Project
+# Cottage Business Project
